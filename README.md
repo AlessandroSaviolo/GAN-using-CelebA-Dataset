@@ -1,3 +1,17 @@
-# CS_IOC5008_0845086_HW2
+# Generative Adversarial Network using CelebA Dataset
 
-The purpose of this repository is to present the Generative Adversarial Network model built for Homework 2. The dataset used for training the model is CelebFaces Attributes (CelebA).
+This project is part of a series of projects for the course _Selected Topics in Visual Recognition using Deep Learning_ that I attended during my exchange program at National Chiao Tung University (Taiwan). See `task.pdf` for the details of the assignment. See `report.pdf` for the report containing the representation and the analysis of the produced results.
+
+The purpose of this project is to implement a Generative Adversarial Network using the famous CelebA Dataset and use the final model to generate [500 celebrity faces](https://drive.google.com/open?id=1qaWmdfAYIBWISdVZX5Zsywh7vnQI4Vm1).
+
+## 1. Dataset
+
+- [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+
+## 2. Project Structure
+
+- `main.py` : main function, use it change hyperparameters (i.e., learning rate, number of epochs)
+
+- `network.py` : build and fit the model
+
+- `utilities.py` : load dataset, plot learning curves, etc.
