@@ -14,4 +14,6 @@ See `GANcelebA.ipynb` for all the details about the implementation of the GAN mo
 
 ## 3. Examples of Generated Faces
 
-![](https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW2/blob/master/output/001_image.png)
+<p align="center"> 
+    <img src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW2/blob/master/output/001_image.png">
+ </p>
