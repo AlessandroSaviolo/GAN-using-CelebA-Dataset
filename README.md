@@ -10,8 +10,7 @@ The purpose of this project is to implement a Generative Adversarial Network usi
 
 ## 2. Project Structure
 
-- `main.py` : main function, use it change hyperparameters (i.e., learning rate, number of epochs)
+See `GANcelebA.ipynb` for all the details about the implementation of the GAN model.
 
-- `network.py` : build and fit the model
+## 3. Examples of Generated Faces
 
-- `utilities.py` : load dataset, plot learning curves, etc.
