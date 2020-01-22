@@ -16,4 +16,7 @@ See `GANcelebA.ipynb` for all the details about the implementation of the GAN mo
 
 <p align="center"> 
     <img src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW2/blob/master/output/001_image.png">
+    <img src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW2/blob/master/output/002_image.png">
+    <img src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW2/blob/master/output/003_image.png">
+    <img src="https://github.com/AlessandroSaviolo/CS_IOC5008_0845086_HW2/blob/master/output/004_image.png">
  </p>
